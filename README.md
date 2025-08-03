@@ -23,8 +23,8 @@ HOW TO RUN THE PROGRAM
 1. .\venv\Scripts\activate 
 2. set -ExecutionPolicy -ExcecutionPolicy RemoteSigned -scopeprocess
 3. .\venv\Scripts\activate
-4. stremlit run front.py 
+4. streamlit run front.py 
 
 
-This will open the steramlit and then the code will run with opening a prompt of resume 
+This will open the streamlit and then the code will run with opening a prompt of resume 
 and also a button is added to enhance the performance.
