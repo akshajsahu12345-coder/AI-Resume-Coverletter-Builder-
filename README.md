@@ -1,4 +1,4 @@
-AI RESUME MAKER AND COVER LETTER GENERATOR
+AI Resume & Coverletter Builder
 
 
 This project aims to build a resume based on the AI and also the cover Letter 
@@ -8,8 +8,8 @@ It is easy to use
 FEATURES
 
 1. Uses  modern day based grammatical languages
-2 .Uses AI integrated resume techniques 
-3 . easy implementations 
+2. Uses AI integrated resume techniques 
+3. Easy implementations 
 
 RESOURCES USED
 
@@ -26,5 +26,5 @@ HOW TO RUN THE PROGRAM
 4. stremlit run front.py 
 
 
-This will open the steramlit    and then the code will run with opening a prompt of resume 
+This will open the steramlit and then the code will run with opening a prompt of resume 
 and also a button is added to enhance the performance.
